@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Tiyasha Kundu</h1>
 <h3 align="center">A passionate ML/AI and Software from India</h3>
