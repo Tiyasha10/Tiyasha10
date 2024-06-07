@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Tiyasha10/Tiyasha10/blob/main/Grey%20Black%20Paper%20Zine%20Beauty%20Influencer%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tiyasha Kundu</h1>
 <h3 align="center">A passionate ML/AI and Software from India</h3>
 
