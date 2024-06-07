@@ -1,4 +1,4 @@
-![logo](https://github.com/Tiyasha10/Tiyasha10/blob/main/Grey%20Black%20Paper%20Zine%20Beauty%20Influencer%20YouTube%20Banner%20(1).png)
+![logo](https://github.com/Tiyasha10/Tiyasha10/blob/main/Brown%20Blue%20Denim%20Jeans%20Fashion%20Sale%20Website%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tiyasha Kundu</h1>
 <h3 align="center">A passionate ML/AI and Software from India</h3>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tiyashakundu3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QExFJN80Qd8dRSY6-453V8URFkCUF0z-/view?usp=drive_link](https://drive.google.com/file/d/1QExFJN80Qd8dRSY6-453V8URFkCUF0z-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wvixv7LJ7wk6KaHGqr9iA2pTj-ACWuwx/view?usp=sharing](https://drive.google.com/file/d/1wvixv7LJ7wk6KaHGqr9iA2pTj-ACWuwx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
