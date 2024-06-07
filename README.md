@@ -6,11 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyasha10&label=Profile%20views&color=0e75b6&style=flat" alt="tiyasha10" /> </p>
 
-- 🌱 I’m currently learning **Object detection and Power Bi**
+- 🔭 I’m currently working on **Calori count using Object Detection**
 
-- 💬 Ask me about **Python, SQL**
+- 🌱 I’m currently learning **Object detection models,React and Power Bi**
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/kundutiyasha](https://linktr.ee/kundutiyasha)
+
+- 💬 Ask me about **Blender,Python,SQL,ML,CSS,HTML,**
 
 - 📫 How to reach me **tiyashakundu3@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QExFJN80Qd8dRSY6-453V8URFkCUF0z-/view?usp=drive_link](https://drive.google.com/file/d/1QExFJN80Qd8dRSY6-453V8URFkCUF0z-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiyasha10&show_icons=true&locale=en&layout=compact" alt="tiyasha10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyasha10&show_icons=true&locale=en" alt="tiyasha10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyasha10&" alt="tiyasha10" /></p>
