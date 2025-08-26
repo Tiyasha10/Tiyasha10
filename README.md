@@ -1,18 +1,18 @@
 ![logo](https://github.com/Tiyasha10/Tiyasha10/blob/main/Brown%20Blue%20Denim%20Jeans%20Fashion%20Sale%20Website%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tiyasha Kundu</h1>
-<h3 align="center">A passionate ML/AI and Software from India</h3>
+<h3 align="center">A passionate ML/AI and Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyasha10&label=Profile%20views&color=0e75b6&style=flat" alt="tiyasha10" /> </p>
 
-- 🔭 I’m currently working on **Calori count using Object Detection**
+- 🔭 I’m currently working on **Calorie count using Object Detection**
 
-- 🌱 I’m currently learning **Object detection models,React and Power Bi**
+- 🌱 I’m currently learning **Object detection models,PostgreSQL and Power Bi**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/kundutiyasha](https://linktr.ee/kundutiyasha)
 
-- 💬 Ask me about **Blender,Python,SQL,ML,CSS,HTML,**
+- 💬 Ask me about **Blender,Python,SQL,ML,CSS,HTML,Typescript,React.js,Next.js,Neon Database,Javascript**
 
 - 📫 How to reach me **tiyashakundu3@gmail.com**
 
