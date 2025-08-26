@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **Calorie count using Object Detection**
 
-- 🌱 I’m currently learning **Object detection models,PostgreSQL and Power Bi**
+- 🌱 I’m currently learning **Object detection models, PostgreSQL and Power Bi**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/kundutiyasha](https://linktr.ee/kundutiyasha)
 
-- 💬 Ask me about **Blender,Python,SQL,ML,CSS,HTML,Typescript,React.js,Next.js,Neon Database,Javascript**
+- 💬 Ask me about **Blender, Python, SQL, ML, CSS,HTML, Typescript, React.js, Next.js, Neon Database,Javascript**
 
 - 📫 How to reach me **tiyashakundu3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wvixv7LJ7wk6KaHGqr9iA2pTj-ACWuwx/view?usp=sharing](https://drive.google.com/file/d/1wvixv7LJ7wk6KaHGqr9iA2pTj-ACWuwx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wvixv7LJ7wk6KaHGqr9iA2pTj-ACWuwx/view?usp=sharing](https://drive.google.com/file/d/1fguy47HzBL7XSnBYXyKNT-gsKd35LGuu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiyasha10&show_icons=true&locale=en&layout=compact" alt="tiyasha10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyasha10&show_icons=true&locale=en" alt="tiyasha10" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyasha10&show_icons=true&locale=en" alt="tiyasha10" /></p> -->
